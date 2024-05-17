@@ -1,8 +1,9 @@
-a = input("enter the value of a = ")
-b = input("enter the value of b = ")
-temp = a
-a = b
-b = temp
-
-print("a=" + a)
-print("b=" + b)
+import random
+#a= random.randint(1,7)
+#a = random.randrange(1,3)
+#a = random.random()
+#a=random.uniform(1,3)
+# l = [2,5,90,-5,89,12,56]
+# #a = random.choice(l)
+# random.shuffle(l)
+# print(l)
